@@ -1,5 +1,4 @@
 /*Carina Vargas*/
-/*cv164112*/
 
 #include <stdio.h>
 #include<stdlib.h>
